@@ -1,3 +1,14 @@
 * {
   background:green;
 }
+
+head {
+  font-size: 24px;
+  margin: 50px;
+  color:white;
+}
+
+body {
+  text-align:center;
+  font-family: "Arial";
+}
