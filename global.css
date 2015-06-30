@@ -1,11 +1,16 @@
 * {
-  background:green;
+  background:black;
+  color:white;
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 50px;
   margin: 50px;
-  color:red;
+  text-decoration:none;
+}
+
+h1:hover {
+  color:green;
 }
 
 body {
